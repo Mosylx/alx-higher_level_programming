@@ -1,4 +1,3 @@
-#!/usr/bin/python3
+#!/user/bin/python3
 number = 98
-f"{number} Battery street\n"
-
+print(‘{:d} Battery street\n’.format(number))
